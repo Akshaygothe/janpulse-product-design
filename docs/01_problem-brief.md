@@ -1,4 +1,4 @@
-# JanPulse — Problem Brief
+# JanPulse: Problem Brief
 India is more connected than ever before. Hundreds of millions of people express opinions every day through social media, messaging apps, protests, voting, and online petitions. Every street, every city, every community carries problems that matter deeply to the people who live there, broken roads, unsafe crossings, polluted water, underfunded schools, stray animals, lack of healthcare, neglected public spaces.
 
 Yet despite this constant expression, most people feel unheard.
