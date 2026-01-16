@@ -1,4 +1,4 @@
-# JanPulse — Product Design Case Study
+# JanPulse: Product Design Case Study
 JanPulse is an exploratory product design initiative focused on understanding how people express what truly matters to them when expression has real weight, consequence, or permanence.
 
 This repository documents the full evolution of the JanPulse product idea from early problem framing to system architecture and design decisions.
